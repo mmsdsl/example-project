@@ -3,7 +3,7 @@ import sys
 
 def subtract(x, y):
     """
-    Returns the sum of the two arguments.
+    Subtracts y from x
     """
     return x - y
 
