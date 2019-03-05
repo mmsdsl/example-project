@@ -8,9 +8,9 @@ def subtract(x, y):
     return x - y
 
 
-def another_function(x):
+def add(x):
     """
-    Returns square of the argument.
+    Returns the sum of the two arguments
     """
     return x * x
 
