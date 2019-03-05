@@ -1,11 +1,11 @@
 import sys
 
 
-def some_function(x, y):
+def subtract(x, y):
     """
     Returns the sum of the two arguments.
     """
-    return x + y
+    return x - y
 
 
 def another_function(x):
